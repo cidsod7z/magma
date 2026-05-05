@@ -12,6 +12,7 @@
  */
 
 import './util/axiosConfig';
+// Triggering eslint job
 import './util/chartjsSetup';
 import './util/polyfill';
 
